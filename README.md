@@ -35,7 +35,7 @@
   :calendar: 2022 - 2023\
   :school: **California State University, Fullerton** - CA, USA
 
-- :scroll: **Bachelor's Degree in Electrical and Electronics Engineering**\
+- :scroll: **Bachelor's Degree in Electrical and Computer Engineering**\
   :calendar: 2018 - 2021\
   :school: **Northern Illinois University** - IL, USA
 
