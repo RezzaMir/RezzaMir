@@ -32,7 +32,7 @@
 <h3 align='center'> 🎓 Education </h3>
 
 - :scroll: **Master's Student in Computer Engineering**\
-  :calendar: 2022 - 2023\
+  :calendar: 2022 - 2024\
   :school: **California State University, Fullerton** - CA, USA
 
 - :scroll: **Bachelor's Degree in Electrical and Computer Engineering**\
