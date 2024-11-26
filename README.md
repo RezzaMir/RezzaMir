@@ -1,6 +1,6 @@
 <!-- style source: https://github.com/MircoT/MircoT/commit/a65c45b0b1102b5988db5d5a28d2f283319a5d87 -->
 
-<h1 align="center"> Hi there:heavy_exclamation_mark: I'm Reza </h1>   <!--      It is the Hand <img src="https://github.com/MircoT/MircoT/raw/master/hi.gif" height="42px" />
+<h1 align="center"> Hi there! I'm Reza </h1>   <!--      It is the Hand <img src="https://github.com/MircoT/MircoT/raw/master/hi.gif" height="42px" />
 
 <h4 align='center'>
   Grad Computer Engineering Student, from USA.
